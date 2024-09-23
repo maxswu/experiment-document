@@ -55,7 +55,7 @@ architecture-beta
 
 ## Implementations
 
-- **Feeder** - [**experiment-feeder-python**](experiment-feeder-python)
+- **Feeder** - [**experiment-feeder-python**](https://github.com/maxswu/experiment-feeder-python)
 
     Uses:
     - Python 3.12
@@ -69,7 +69,7 @@ architecture-beta
     Uses:
     - Python 3.12
     - [Pydantic](https://docs.pydantic.dev/) for data validation.
-    - [faust-streaming](https://github.com/faust-streaming/faust) , a currently active community fork of the original [Faust](https://github.com/robinhood/faust)(by [Robinhood](https://robinhood.com/)).
+    - [faust-streaming](https://github.com/faust-streaming/faust) , a currently active community fork of the original [Faust](https://github.com/robinhood/faust) (by [Robinhood](https://robinhood.com/)).
 
 - **API Service** - [**experiment-api-go**](https://github.com/maxswu/experiment-api-go)
 
